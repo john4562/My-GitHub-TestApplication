@@ -21,6 +21,7 @@ class MainActivity : ComponentActivity() {
             MyGitHubTestApplicationTheme {
                 println("This is Test Work")
                 println("This is From games Branch")
+                println("This is From games new Branch")
 
             }
         }
