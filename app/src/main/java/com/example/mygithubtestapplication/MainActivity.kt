@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             MyGitHubTestApplicationTheme {
                 println("This is Test Work")
+                println("This is From games Branch")
 
             }
         }
